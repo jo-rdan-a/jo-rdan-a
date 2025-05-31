@@ -1,29 +1,9 @@
-<!--
-  README para perfil GitHub mais estilizado e atraente.
--->
+<h1 align="center">Jordana dos Reis</h1>
 
-<h1 align="center">Olá, eu sou a Jordana dos Reis! 👋</h1>
+### Sobre mim
 
-<p align="center">
-  <a href="https://linkedin.com/in/seu-linkedin" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jordana@email.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/seu-usuario" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-### 👩‍🎓 Sobre mim
-
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFCE  
-- 🔬 Bolsista de Iniciação Científica no CIDTS  
-- 🌱 Apaixonada por tecnologia, pesquisa aplicada e desenvolvimento mobile  
-- 🚀 Atualmente focada em React Native, FastAPI e Segurança da Informação  
+- Estudante de Análise e Desenvolvimento de Sistemas no IFCE  
+- Bolsista de Iniciação Científica no CIDTS
 
 ---
 

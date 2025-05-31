@@ -12,15 +12,31 @@
 
 ### Tecnologias que uso
 
+
 <p align="center">
-  <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" height="40" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" height="40" />
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" height="40" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" />
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="40" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="40" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="40" />
+  <img alt="Android Studio" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" style="vertical-align:middle;"/>  
+  <b>Android Studio (Android Nativo e Java)</b> &nbsp;&nbsp;&nbsp;
+
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" style="vertical-align:middle;"/>  
+  <b>Java</b> &nbsp;&nbsp;&nbsp;
+
+  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" style="vertical-align:middle;"/>  
+  <b>C</b> &nbsp;&nbsp;&nbsp;
+
+  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="vertical-align:middle;"/>  
+  <b>HTML5 / Web</b> &nbsp;&nbsp;&nbsp;
+
+  <img alt="React Native" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="vertical-align:middle;"/>  
+  <b>React Native</b> &nbsp;&nbsp;&nbsp;
+
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" style="vertical-align:middle;"/>  
+  <b>Python</b> &nbsp;&nbsp;&nbsp;
+
+  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="vertical-align:middle;"/>  
+  <b>TypeScript</b> &nbsp;&nbsp;&nbsp;
+
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="vertical-align:middle;"/>  
+  <b>Git</b>
 </p>
 
 ---
@@ -36,15 +52,22 @@
 ### 📫 Onde me encontrar
 <p align="center">
   <a href="https://linkedin.com/in/seu-linkedin" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="vertical-align:middle;" alt="LinkedIn" />  
+    <b>LinkedIn</b>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/seu-instagram" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="40" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" style="vertical-align:middle;" alt="Instagram" />  
+    <b>Instagram</b>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="https://github.com/seu-usuario" target="_blank" rel="noopener noreferrer" style="margin-right:10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="40" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="vertical-align:middle;" alt="GitHub" />  
+    <b>GitHub</b>
+  </a>&nbsp;&nbsp;&nbsp;
+
   <a href="mailto:jordana@email.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" style="vertical-align:middle;" alt="Email" />  
+    <b>Email</b>
   </a>
 </p>

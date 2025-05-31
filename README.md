@@ -24,7 +24,7 @@
 ### Minhas estatísticas no GitHub
 
 <p align="center">
-  ![Jordana's GitHub stats](https://github-readme-stats.vercel.app/api?username=jo-rdan-a&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=jo-rdan-a&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats" />
 </p>
 
 ---

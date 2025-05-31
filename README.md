@@ -24,10 +24,10 @@
 ### Minhas estatísticas no GitHub
 
 <p align="center">
- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jo-rdan-a&show_icons=true&theme=vue-dark&count_private=true)
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jo-rdan-a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-rdan-a&layout=compact&theme=vue-dark)
-Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jo-rdan-a&layout=compact&langs_count=8&theme=tokyonight"/>
+
 </p>
 
 ---

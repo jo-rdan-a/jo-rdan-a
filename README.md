@@ -24,7 +24,10 @@
 ### Minhas estatísticas no GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jo-rdan-a&show_icons=true&theme=vue-dark&count_private=true" alt="GitHub Stats" />
+ ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jo-rdan-a&show_icons=true&theme=vue-dark&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jo-rdan-a&layout=compact&theme=vue-dark)
+Stats" />
 </p>
 
 ---

@@ -10,7 +10,7 @@
 
 ---
 
-### Tecnologias que uso
+### Tecnologias
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -21,7 +21,7 @@
 
 ---
 
-### Minhas estatísticas no GitHub
+### Minhas estatísticas
 
 <p align="center">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jo-rdan-a&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -32,5 +32,5 @@
 
 ---
 
-###  Onde me encontrar
+###  Onde pode me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordana-dos-reis-579003322/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jo_rdan_a)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jo-rdan-a)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jordanadosreis02@gmail.com)

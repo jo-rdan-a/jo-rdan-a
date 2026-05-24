@@ -40,7 +40,7 @@
 | Projeto | Descrição |
 |---|---|
 | [PLANEJA PEC](https://planeja-pec.vercel.app/index.html) | Aplicativo para acompanhamento e simulação de rebanhos |
-| [DIPE]([LINK](https://dipe.ifce.edu.br)) | Sistema voltado ao acompanhamento pedagógico |
+| [DIPE](https://dipe.ifce.edu.br) | Sistema voltado ao acompanhamento pedagógico |
 
 ---
 
